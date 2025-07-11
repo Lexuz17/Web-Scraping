@@ -9,7 +9,7 @@ A collection of web scrapers for various platforms and purposes, built with Pyth
 Extract articles and engagement metrics from Medium.com
 
 - Search-based article scraping
-- Customizable article limit (1-5000)
+- Customizable article limit
 - Extracts titles and clap counts
 - CSV export functionality
 
@@ -92,51 +92,11 @@ Web-Scraping/
 - YouTube Comments Scraper
 - Wikipedia Article Scraper
 
-## ⚠️ Important Notes
-
-- Respect websites' terms of service
-- Add delays between requests
-- Don't overload servers
-- Check robots.txt
-- Use responsibly
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch
-3. Commit changes
-4. Push to branch
-5. Open pull request
-
 ## 📚 Related Medium Article
 
 Want to learn more about this project? Check out our detailed Medium article:
 
 ### [Everybody Can Scrape Right Now – Here's How!](your-medium-link)
-
-In this article, we cover:
-
-- The importance of data in AI development
-- How to build a web scraper from scratch
-- Best practices for responsible scraping
-- Using scraped data with AI models
-- Step-by-step implementation guide
-
-Key highlights:
-
-- 🔍 Detailed code explanations
-- 🛠 Setup instructions
-- 📊 Data processing techniques
-- 🤖 AI integration examples
-- ⚡ Performance optimization tips
-
-Follow us on Medium for more articles about:
-
-- Web Scraping Techniques
-- Data Collection Methods
-- AI/ML Applications
-- Python Development
-- Automation Tools
 
 Share your experience using this scraper by:
 
